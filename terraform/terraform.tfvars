@@ -1,0 +1,10 @@
+aws_region = "us-east-1"
+aws_profile = "default"
+
+vpc_cider = "10.0.0.0/16"
+private_avability_Zone = "us-east-1a"
+private_subnet_cider = "10.0.1.0/24"
+public_avability_Zone = "us-east-1a"
+public_subnet_cider = "10.0.0.0/24"
+ami="ami-0182f373e66f89c85"
+instance_type = "t2.micro"
